@@ -23,6 +23,7 @@ func main() {
 		jsonctl.NewKeyCommand(),
 		jsonctl.NewGetCommand(),
 		jsonctl.NewSetCommand(),
+		jsonctl.NewFlattenCommand(),
 	}
 	app.Run(os.Args)
 }

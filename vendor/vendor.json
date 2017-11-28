@@ -9,6 +9,12 @@
 			"revisionTime": "2017-03-22T22:36:35Z"
 		},
 		{
+			"checksumSHA1": "7il4hFCZ9Ub1lAiXUCf5jwnsqHk=",
+			"path": "github.com/poddworks/flatten",
+			"revision": "bb5a83e55012646d2e39b08785092dd893853918",
+			"revisionTime": "2017-11-28T14:28:05Z"
+		},
+		{
 			"checksumSHA1": "brhONOPp4CSdTZf5uEtcH+FpFUI=",
 			"path": "gopkg.in/urfave/cli.v1",
 			"revision": "0bdeddeeb0f650497d603c4ad7b20cfe685682f6",
